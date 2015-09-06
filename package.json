@@ -1,0 +1,17 @@
+{
+  "name": "yourfirstpr-issue-proto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node ./test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "markdown": "^0.5.0"
+  },
+  "devDependencies": {
+    "standard": "^5.2.1"
+  }
+}
